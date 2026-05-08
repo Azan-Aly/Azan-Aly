@@ -1,44 +1,141 @@
 <h1 align="center">Hi 👋, I'm Azan</h1>
 
 <h3 align="center">
-Full Stack Developer | MERN Stack | Learning Backend & DevOps
+MERN Stack Developer | Backend Enthusiast | Passionate About Building Real-World Applications
 </h3>
 
----
-
-- 🌱 Currently learning **Node.js, Docker, Numerical Computing**
-- 💻 Working on **Spotify Clone & Social Media Projects**
-- 📫 Reach me at: your-email@example.com
-- ⚡ Fun fact: I love building real-world projects
-
----
-
-## 🚀 Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,php,docker,git,github,vscode" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Node.js+%7C+React.js+%7C+MongoDB;Learning+Docker+%26+DevOps;Building+Projects+That+Solve+Problems" />
 </p>
 
+---
 
-## 📊 GitHub Stats
+## 🚀 About Me
 
-![Azan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azan-Aly&show_icons=true)
+- 💻 MERN Stack Developer
+- 🌱 Currently learning **Docker, DevOps & Numerical Computing**
+- 🔥 Interested in **Backend Development & Scalable Applications**
+- 🎨 Comfortable with **Tailwind CSS & Bootstrap**
+- 🛢️ Familiar with **MySQL & PHP**
+- ⚡ Love building real-world projects and improving problem-solving skills
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azan-Aly&layout=compact)
+---
+
+## 🛠️ Tech Stack
+
+###  Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,php,cpp" />
+</p>
+
+###  Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
+</p>
+
+###  Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+###  Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+###  Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🚀 Sniply — A url shortener
+- Built with the MERN Stack
+- Create, manage and track urls
+- Authentication & secure backend APIs
+- Clean responsive UI with Tailwind CSS
+
+### 🏢 Basecampy Backend
+- Backend-focused project inspired by project management systems
+- RESTful APIs using Node.js & Express
+- Authentication, middleware & protected routes
+- MongoDB integration with scalable backend architecture
+
+### 🎥 YouTube Clone
+- Modern responsive video platform UI
+- Built using React.js & Tailwind CSS
+- Dynamic layouts and reusable components
+- Focused on frontend architecture and responsiveness
+
+### 🌐 MERN Social Media App
+- Authentication & Authorization
+- Profile Uploads & Post System
+- Backend APIs with Node.js & MongoDB
+
+### 🔐 Authentication System
+- Login / Signup
+- File Uploads
+- Session Handling & Validation
+
+### 🎵 Spotify Clone
+- Responsive Spotify-inspired UI
+- Built using HTML, CSS & JavaScript
+- Focused on clean modern frontend design
+---
 
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Azan-Aly)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Azan-Aly&theme=tokyonight" />
+</p>
+
+---
 
 ## 🌐 Connect With Me
 
 <p align="left">
+
 <a href="https://linkedin.com/in/azanaly">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://twitter.com/@MAzanAly">
-<img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x" />
+<a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+<a href="mailto:mr.n0bodypool@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+## 📄 Resume
+
+<p>
+  <a href="[YOUR_RESUME_LINK](https://github.com/Azan-Aly/Azan-Aly/raw/main/resume.pdf)">
+    <img src="https://img.shields.io/badge/Download%20Resume-000?style=for-the-badge&logo=readthedocs&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Azan-Aly&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  ⭐️ From <a href="https://github.com/Azan-Aly">Azan</a>
 </p>
