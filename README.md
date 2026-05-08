@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Azan</h1>
+<h1 align="center">Hey there 👋, I'm Azan</h1>
 
 <h3 align="center">
 MERN Stack Developer | Backend Enthusiast | Passionate About Building Real-World Applications
@@ -10,18 +10,18 @@ MERN Stack Developer | Backend Enthusiast | Passionate About Building Real-World
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 💻 MERN Stack Developer
-- 🌱 Currently learning **Docker, DevOps & Numerical Computing**
-- 🔥 Interested in **Backend Development & Scalable Applications**
-- 🎨 Comfortable with **Tailwind CSS & Bootstrap**
-- 🛢️ Familiar with **MySQL & PHP**
-- ⚡ Love building real-world projects and improving problem-solving skills
+-  MERN Stack Developer
+-  Currently learning **Docker, DevOps & Numerical Computing**
+-  Interested in **Backend Development & Scalable Applications**
+-  Comfortable with **Tailwind CSS & Bootstrap**
+-  Familiar with **MySQL & PHP**
+-  Love building real-world projects and improving problem-solving skills
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ###  Languages
 
@@ -55,44 +55,44 @@ MERN Stack Developer | Backend Enthusiast | Passionate About Building Real-World
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
-### 🚀 Sniply — A url shortener
+###  Sniply — A url shortener
 - Built with the MERN Stack
 - Create, manage and track urls
 - Authentication & secure backend APIs
 - Clean responsive UI with Tailwind CSS
 
-### 🏢 Basecampy Backend
+###  Basecampy Backend
 - Backend-focused project inspired by project management systems
 - RESTful APIs using Node.js & Express
 - Authentication, middleware & protected routes
 - MongoDB integration with scalable backend architecture
 
-### 🎥 YouTube Clone
+###  YouTube Clone
 - Modern responsive video platform UI
 - Built using React.js & Tailwind CSS
 - Dynamic layouts and reusable components
 - Focused on frontend architecture and responsiveness
 
-### 🌐 MERN Social Media App
+###  MERN Social Media App
 - Authentication & Authorization
 - Profile Uploads & Post System
 - Backend APIs with Node.js & MongoDB
 
-### 🔐 Authentication System
+###  Authentication System
 - Login / Signup
 - File Uploads
 - Session Handling & Validation
 
-### 🎵 Spotify Clone
+###  Spotify Clone
 - Responsive Spotify-inspired UI
 - Built using HTML, CSS & JavaScript
 - Focused on clean modern frontend design
 ---
 
 
-## 🔥 GitHub Streak
+##  GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Azan-Aly&theme=tokyonight" />
@@ -100,20 +100,18 @@ MERN Stack Developer | Backend Enthusiast | Passionate About Building Real-World
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="left">
 
 <a href="https://linkedin.com/in/azanaly">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 
-<a href="https://github.com/YOUR_USERNAME" target="_blank">
+<a href="https://github.com/Azan-Aly" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <a href="mailto:mr.n0bodypool@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -122,10 +120,10 @@ MERN Stack Developer | Backend Enthusiast | Passionate About Building Real-World
 
 ---
 
-## 📄 Resume
+##  Resume
 
 <p>
-  <a href="[YOUR_RESUME_LINK](https://github.com/Azan-Aly/Azan-Aly/raw/main/resume.pdf)">
+  <a href="https://github.com/Azan-Aly/Azan-Aly/raw/main/resume.pdf">
     <img src="https://img.shields.io/badge/Download%20Resume-000?style=for-the-badge&logo=readthedocs&logoColor=white" />
   </a>
 </p>
