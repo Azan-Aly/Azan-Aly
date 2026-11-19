@@ -185,13 +185,9 @@
 
 <div align="center">
 
-  <!-- Deep Neon Stat Cards -->
-  <a href="https://github.com/Azan-Aly">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Azan-Aly&show_icons=true&theme=radical&bg_color=050811&title_color=38BDF8&text_color=94A3B8&icon_color=A78BFA&border_color=1E1B4B&hide_border=false" width="48%" alt="Azan's GitHub Stats" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Azan-Aly&layout=compact&theme=radical&bg_color=050811&title_color=38BDF8&text_color=94A3B8&border_color=1E1B4B&hide_border=false" width="48%" alt="Azan's Top Languages" />
-  </a>
+ 
 
-  <br/><br/>
+  <br/>
 
   <!-- Radical Dark Streak Tracker -->
   <a href="https://github.com/Azan-Aly">
