@@ -11,7 +11,7 @@
 <!-- Header Name -->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" alt="cool" /> ɪ'ᴍ ᴀᴢᴀɴ ᴀʟɪ!
 
-*Digital Craftsman (Full-Stack MERN | Next.js | React Native Developer)*
+**Full-Stack MERN | Next.js | React Native Developer**
 
 I am a Full-Stack Developer and Architect with a huge love for **Next.js (App Router), React.js, React Native, Node.js, Express, MongoDB, MySQL** and **REST APIs**.
 
@@ -55,21 +55,13 @@ I am a Full-Stack Developer and Architect with a huge love for **Next.js (App Ro
 
 <br clear="both" />
 
-<!-- Trophies -->
-## <p align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</p>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Azan-Aly&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
-  </a>
-</p>
-
 <!-- Github Stats Table -->
 <table align="center">
   <tr>
     <td width="50%">
       <h3 align="center">Gɪᴛʜᴜʙ Sᴛᴀᴛs</h3>
       <p align="center">
-        <a href="https://github.com/Azan-Aly">
+        <a href="https://github.com/Azan-Aly" target="_blank" rel="noopener noreferrer">
           <img src="https://github-readme-stats.vercel.app/api?username=Azan-Aly&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&icon_color=ffeb95&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
         </a>
       </p>
@@ -77,7 +69,7 @@ I am a Full-Stack Developer and Architect with a huge love for **Next.js (App Ro
     <td width="50%">
       <h3 align="center">Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</h3>
       <p align="center">
-        <a href="https://github.com/Azan-Aly">
+        <a href="https://github.com/Azan-Aly" target="_blank" rel="noopener noreferrer">
           <img src="https://streak-stats.demolab.com/?user=Azan-Aly&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff&currStreakLabel=ffeb95" alt="Streak Stats" />
         </a>
       </p>
@@ -87,7 +79,7 @@ I am a Full-Stack Developer and Architect with a huge love for **Next.js (App Ro
     <td width="50%">
       <h3 align="center">Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</h3>
       <p align="center">
-        <a href="https://github.com/Azan-Aly/Azan-Aly">
+        <a href="https://github.com/Azan-Aly/Azan-Aly" target="_blank" rel="noopener noreferrer">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Azan-Aly&repo=Azan-Aly&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&icon_color=ffeb95" alt="Latest Project" />
         </a>
       </p>
@@ -95,7 +87,7 @@ I am a Full-Stack Developer and Architect with a huge love for **Next.js (App Ro
     <td width="50%">
       <h3 align="center">Tᴏᴘ Lᴀɴɢᴜᴀɢᴇs</h3>
       <p align="center">
-        <a href="https://github.com/Azan-Aly">
+        <a href="https://github.com/Azan-Aly" target="_blank" rel="noopener noreferrer">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azan-Aly&layout=compact&langs_count=6&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Languages" />
         </a>
       </p>
@@ -121,11 +113,11 @@ I am a Full-Stack Developer and Architect with a huge love for **Next.js (App Ro
 <!-- Contact -->
 ## <p align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</p>
 <p align="center">
-  <a href="mailto:work.azan.dev@gmail.com"><img src="./gmail.png" width="45" height="45" alt="Gmail" /></a>
-  <a href="https://x.com/azanaly"><img src="./twitter.png" width="45" height="45" alt="Twitter" /></a>
-  <a href="https://instagram.com/azanaly"><img src="./instagram.png" width="45" height="45" alt="Instagram" /></a>
-  <a href="https://github.com/Azan-Aly"><img src="./github.png" width="45" height="45" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/azanaly"><img src="./linkedin.png" width="45" height="45" alt="LinkedIn" /></a>
+  <a href="mailto:work.azan.dev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="./gmail.png" width="45" height="45" alt="Gmail" /></a>
+  <a href="https://x.com/MAzanAly" target="_blank" rel="noopener noreferrer"><img src="./twitter.png" width="45" height="45" alt="Twitter" /></a>
+  <a href="https://instagram.com/mr.azan_aly" target="_blank" rel="noopener noreferrer"><img src="./instagram.png" width="45" height="45" alt="Instagram" /></a>
+  <a href="https://github.com/Azan-Aly" target="_blank" rel="noopener noreferrer"><img src="./github.png" width="45" height="45" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/azanaly" target="_blank" rel="noopener noreferrer"><img src="./linkedin.png" width="45" height="45" alt="LinkedIn" /></a>
 </p>
 
 <p align="center">
