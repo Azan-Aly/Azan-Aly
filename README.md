@@ -1,235 +1,140 @@
-<div align="center">
+<!-- Banner -->
+<p align="center">
+  <img width="100%" src="./banner.jpg" alt="Muhammad Azan Ali Banner" />
+</p>
 
-  <!-- Cybernetic Gradient Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,4,10,25,35&height=240&section=header&text=MUHAMMAD%20AZAN%20ALI&fontSize=40&fontColor=38BDF8&fontAlignY=35&desc=Full-Stack%20MERN%20%7C%20Next.js%20%7C%20React%20Native%20Architect&descSize=16&descColor=A78BFA&descAlignY=62" width="100%" alt="Animated Header" />
-
-  <!-- Multi-Color Glowing Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=%3E_Architecting+high-concurrency+MERN+%26+Next.js+systems;%3E_Engineering+cross-platform+React+Native+apps;%3E_Building+secure+backend+APIs+%26+scalable+microservices;%3E_Exploring+Docker%2C+DevOps+%26+Advanced+Architecture" alt="Typing SVG" />
-
-  <br/><br/>
-
-  <!-- High-Gloss Action Badges -->
-  <a href="https://linkedin.com/in/azanaly"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:mr.n0bodypool@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://github.com/Azan-Aly/Azan-Aly/raw/main/resume.pdf"><img src="https://img.shields.io/badge/Download_Resume-8B5CF6?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" /></a>
-  <a href="https://github.com/Azan-Aly"><img src="https://img.shields.io/github/followers/Azan-Aly?label=Followers&style=for-the-badge&logo=github&color=090D16&logoColor=38BDF8" alt="Followers" /></a>
-
+<!-- Night Owl image -->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="Celebration Owl" />
 </div>
 
-<br/>
+<!-- Header Name -->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" alt="cool" /> ɪ'ᴍ ᴀᴢᴀɴ ᴀʟɪ!
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553cc.gif" width="100" alt="Neon Divider Glow" />
-</div>
+*Digital Craftsman (Full-Stack MERN | Next.js | React Native Developer)*
 
-<br/>
+I am a Full-Stack Developer and Architect with a huge love for **Next.js (App Router), React.js, React Native, Node.js, Express, MongoDB, MySQL** and **REST APIs**.
 
-<!-- SECTION 1: ARCHITECTURE PILLARS -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=CORE+ARCHITECTURE+%26+ENGINEERING+PILLARS" alt="Architecture Header" />
-</div>
+- ✨ Student of life :)
+- 🌱 I'm currently learning **Docker**, **DevOps** and **Advanced System Architecture** — every day is a learning opportunity.
+- ⚡ Architecting high-concurrency **MERN** & **Next.js** systems with **Redux Toolkit**.
+- 📱 Engineering fluid, cross-platform mobile apps using **React Native**.
+- 🔐 Building secure **Node.js & Express** APIs with JWT authentication.
+- ❤️ Contributing to Open Source.
+- 💻 Visit my [Portfolio](https://muhammadazanali.pages.dev) or check out my [Resume](./resume.pdf) for more details about me.
 
-<table width="100%">
-  <tr style="background-color: #050811;">
-    <td width="50%" valign="top" style="border: 1px solid #1E1B4B; padding: 18px; border-radius: 8px;">
-      <h4 style="color: #38BDF8; font-family: monospace;">FULL-STACK &amp; SSR ECOSYSTEMS</h4>
-      <p style="color: #94A3B8; font-size: 13.5px; line-height: 1.6;">
-        • Engineering high-performance server-rendered apps with <b>Next.js (App Router)</b> and <b>React.js</b>.<br/>
-        • Constructing bulletproof <b>Node.js &amp; Express</b> API services backed by JWT token security.<br/>
-        • Optimizing global client state using <b>Redux Toolkit</b> and asynchronous middleware.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Azan-Aly&label=Profile%20views&color=770677&style=flat-square" alt="Profile views" />
+</p>
+
+<br clear="both" />
+
+<!-- Tech Stack & Projects -->
+## <p align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛs</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif" />
+  <img align="left" width="50%" src="./Skills_Animation_White.gif" alt="Tech Stack" />
+</picture>
+
+### Current Learning
+
+- Exploring Docker, containerization and modern DevOps pipelines.
+- Deepening expertise in scalable microservices and advanced architecture.
+- Optimizing server-rendered Next.js (App Router) and Redux Toolkit patterns.
+
+### Latest Projects
+
+- 🎵 [**MusicX**](https://github.com/Azan-Aly) — A Spotify-like music streaming app with playlists, search & a seamless audio player.
+- 📝 [**Result Checker**](https://github.com/Azan-Aly) — Student result portal to search & view marks, grades and report cards instantly.
+- 🔗 [**Sniply — URL Shortener**](https://github.com/Azan-Aly) — Low-latency redirects with real-time click analytics & auth.
+- ⚙️ [**Basecampy Core Engine**](https://github.com/Azan-Aly) — Project management REST API suite with JWT auth.
+- 💬 [**MERN Social Platform**](https://github.com/Azan-Aly) — Social feed with media uploads, user graph & comments.
+- 📺 [**YouTube Media Client**](https://github.com/Azan-Aly) — Responsive video UI with dynamic routing.
+
+<br clear="both" />
+
+<!-- Trophies -->
+## <p align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Azan-Aly&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
+  </a>
+</p>
+
+<!-- Github Stats Table -->
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3 align="center">Gɪᴛʜᴜʙ Sᴛᴀᴛs</h3>
+      <p align="center">
+        <a href="https://github.com/Azan-Aly">
+          <img src="https://github-readme-stats.vercel.app/api?username=Azan-Aly&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&icon_color=ffeb95&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
       </p>
     </td>
-    <td width="50%" valign="top" style="border: 1px solid #1E1B4B; padding: 18px; border-radius: 8px;">
-      <h4 style="color: #A78BFA; font-family: monospace;">MOBILE, DATA &amp; SYSTEMS</h4>
-      <p style="color: #94A3B8; font-size: 13.5px; line-height: 1.6;">
-        • Crafting fluid cross-platform mobile products using <b>React Native</b>.<br/>
-        • Managing relational and non-relational database models in <b>MongoDB</b> &amp; <b>MySQL</b>.<br/>
-        • Writing clean scripts with <b>PHP/jQuery</b> while expanding into <b>Docker &amp; DevOps</b>.
+    <td width="50%">
+      <h3 align="center">Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</h3>
+      <p align="center">
+        <a href="https://github.com/Azan-Aly">
+          <img src="https://streak-stats.demolab.com/?user=Azan-Aly&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff&currStreakLabel=ffeb95" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</h3>
+      <p align="center">
+        <a href="https://github.com/Azan-Aly/Azan-Aly">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Azan-Aly&repo=Azan-Aly&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&icon_color=ffeb95" alt="Latest Project" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Tᴏᴘ Lᴀɴɢᴜᴀɢᴇs</h3>
+      <p align="center">
+        <a href="https://github.com/Azan-Aly">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azan-Aly&layout=compact&langs_count=6&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Languages" />
+        </a>
       </p>
     </td>
   </tr>
 </table>
+<br />
 
-<br/>
+<!-- Contribution Graph -->
+## <p align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</p>
+<p align="center">
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Azan-Aly&bg_color=220a28&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" alt="Contribution Graph" />
+</p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553cc.gif" width="100" alt="Neon Divider Glow" />
-</div>
+<!-- Thought of the Day (auto-updated daily by .github/workflows/update-quote.yml) -->
+## <p align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</p>
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Zig%20Ziglar&quote=It%20is%20your%20attitude%2C%20not%20your%20aptitude%2C%20that%20determines%20your%20altitude.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->
 
-<br/>
+<!-- Contact -->
+## <p align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</p>
+<p align="center">
+  <a href="mailto:work.azan.dev@gmail.com"><img src="./gmail.png" width="45" height="45" alt="Gmail" /></a>
+  <a href="https://x.com/azanaly"><img src="./twitter.png" width="45" height="45" alt="Twitter" /></a>
+  <a href="https://instagram.com/azanaly"><img src="./instagram.png" width="45" height="45" alt="Instagram" /></a>
+  <a href="https://github.com/Azan-Aly"><img src="./github.png" width="45" height="45" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/azanaly"><img src="./linkedin.png" width="45" height="45" alt="LinkedIn" /></a>
+</p>
 
-<!-- SECTION 2: TECH STACK MATRIX -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=TECHNOLOGY+STACK+%26+ECOSYSTEM" alt="Tech Stack Header" />
-</div>
-
-<div align="center">
-
-  <table width="100%">
-    <tr style="background-color: #050811;">
-      <td align="center" width="22%" style="border: 1px solid #1E1B4B; color: #38BDF8; font-weight: bold; font-family: monospace;">CORE LANGUAGES</td>
-      <td style="border: 1px solid #1E1B4B; padding: 12px;">
-        <img src="https://skillicons.dev/icons?i=js,ts,php,cpp,html,css&theme=dark" alt="Languages" />
-      </td>
-    </tr>
-    <tr style="background-color: #050811;">
-      <td align="center" width="22%" style="border: 1px solid #1E1B4B; color: #A78BFA; font-weight: bold; font-family: monospace;">FRONTEND &amp; MOBILE</td>
-      <td style="border: 1px solid #1E1B4B; padding: 12px;">
-        <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,bootstrap,jquery&theme=dark" alt="Frontend & Mobile" />
-      </td>
-    </tr>
-    <tr style="background-color: #050811;">
-      <td align="center" width="22%" style="border: 1px solid #1E1B4B; color: #34D399; font-weight: bold; font-family: monospace;">BACKEND &amp; DATA</td>
-      <td style="border: 1px solid #1E1B4B; padding: 12px;">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Backend & Databases" />
-      </td>
-    </tr>
-    <tr style="background-color: #050811;">
-      <td align="center" width="22%" style="border: 1px solid #1E1B4B; color: #F43F5E; font-weight: bold; font-family: monospace;">DEVOPS &amp; TOOLS</td>
-      <td style="border: 1px solid #1E1B4B; padding: 12px;">
-        <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,npm&theme=dark" alt="DevOps & Tools" />
-      </td>
-    </tr>
-  </table>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553cc.gif" width="100" alt="Neon Divider Glow" />
-</div>
-
-<br/>
-
-<!-- SECTION 3: PRODUCTION REPOSITORIES -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=34D399&center=true&vCenter=true&width=600&lines=PRODUCTION+REPOSITORIES+%26+PROJECTS" alt="Projects Header" />
-</div>
-
-<table width="100%">
-  <thead>
-    <tr style="background-color: #050811;">
-      <th width="32%" align="left" style="border: 1px solid #1E1B4B; color: #38BDF8; padding: 10px; font-family: monospace;">REPOSITORY</th>
-      <th width="48%" align="left" style="border: 1px solid #1E1B4B; color: #A78BFA; padding: 10px; font-family: monospace;">ARCHITECTURE &amp; FEATURES</th>
-      <th width="20%" align="center" style="border: 1px solid #1E1B4B; color: #34D399; padding: 10px; font-family: monospace;">TECH STACK</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="background-color: #070B19;">
-      <td style="border: 1px solid #1E1B4B; padding: 12px;">
-        <b><a href="https://github.com/Azan-Aly" style="color: #38BDF8; text-decoration: none;">Sniply — URL Shortener</a></b>
-      </td>
-      <td style="border: 1px solid #1E1B4B; padding: 12px; color: #94A3B8; font-size: 13px;">
-        • Dynamic URL redirection engine with minimal latency.<br/>
-        • Real-time click analytics &amp; secure account auth.<br/>
-        • Responsive dashboard built with Tailwind CSS.
-      </td>
-      <td align="center" style="border: 1px solid #1E1B4B; padding: 12px;">
-        <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,tailwind&theme=dark" height="26" alt="Sniply Stack" />
-      </td>
-    </tr>
-    <tr style="background-color: #050811;">
-      <td style="border: 1px solid #1E1B4B; padding: 12px;">
-        <b><a href="https://github.com/Azan-Aly" style="color: #A78BFA; text-decoration: none;">Basecampy Core Engine</a></b>
-      </td>
-      <td style="border: 1px solid #1E1B4B; padding: 12px; color: #94A3B8; font-size: 13px;">
-        • Enterprise project management REST API suite.<br/>
-        • Custom authentication tokens &amp; route protection middleware.<br/>
-        • Scalable relational database indexing.
-      </td>
-      <td align="center" style="border: 1px solid #1E1B4B; padding: 12px;">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman&theme=dark" height="26" alt="Basecampy Stack" />
-      </td>
-    </tr>
-    <tr style="background-color: #070B19;">
-      <td style="border: 1px solid #1E1B4B; padding: 12px;">
-        <b><a href="https://github.com/Azan-Aly" style="color: #34D399; text-decoration: none;">MERN Social Platform</a></b>
-      </td>
-      <td style="border: 1px solid #1E1B4B; padding: 12px; color: #94A3B8; font-size: 13px;">
-        • Interactive social feed with media upload pipelines.<br/>
-        • Complete user graph, comments, and like logic.<br/>
-        • Robust error handling and security validation.
-      </td>
-      <td align="center" style="border: 1px solid #1E1B4B; padding: 12px;">
-        <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express&theme=dark" height="26" alt="Social Stack" />
-      </td>
-    </tr>
-    <tr style="background-color: #050811;">
-      <td style="border: 1px solid #1E1B4B; padding: 12px;">
-        <b><a href="https://github.com/Azan-Aly" style="color: #F43F5E; text-decoration: none;">YouTube Media Client</a></b>
-      </td>
-      <td style="border: 1px solid #1E1B4B; padding: 12px; color: #94A3B8; font-size: 13px;">
-        • Responsive video interface with custom sidebars.<br/>
-        • Dynamic routing and optimized state management.
-      </td>
-      <td align="center" style="border: 1px solid #1E1B4B; padding: 12px;">
-        <img src="https://skillicons.dev/icons?i=react,tailwind,js&theme=dark" height="26" alt="YouTube Stack" />
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553cc.gif" width="100" alt="Neon Divider Glow" />
-</div>
-
-<br/>
-
-<!-- SECTION 4: GITHUB ANALYTICS DASHBOARD -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=F43F5E&center=true&vCenter=true&width=600&lines=GITHUB+ANALYTICS+%26+SYSTEM+METRICS" alt="Analytics Header" />
-</div>
-
-<div align="center">
-
- 
-
-  <br/>
-
-  <!-- Radical Dark Streak Tracker -->
-  <a href="https://github.com/Azan-Aly">
-    <img src="https://streak-stats.demolab.com?user=Azan-Aly&theme=radical&background=050811&border=1E1B4B&stroke=1E1B4B&ring=38BDF8&fire=F43F5E&currStreakNum=38BDF8&sideNums=94A3B8&sideLabels=94A3B8&currStreakLabel=A78BFA&dates=64748B&hide_border=false" width="97%" alt="Azan's Streak" />
+<p align="center">
+  <a href="./resume.pdf">
+    <img src="https://img.shields.io/badge/Download_My_Resume-770677?style=for-the-badge&logo=readthedocs&logoColor=white" height="36" alt="Download Resume" />
   </a>
+</p>
 
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553cc.gif" width="100" alt="Neon Divider Glow" />
-</div>
-
-<br/>
-
-<!-- SECTION 5: FOOTER & CONNECT -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=LET'S+CONNECT+%26+COLLABORATE" alt="Connect Header" />
-</div>
-
-<div align="center">
-
-  <p style="color: #94A3B8; font-family: monospace;">Open for full-stack engineering roles, cross-platform mobile apps, and architectural consulting.</p>
-
-  <a href="https://linkedin.com/in/azanaly">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:mr.n0bodypool@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Azan-Aly">
-    <img src="https://img.shields.io/badge/GitHub-050811?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub" />
-  </a>
-
-  <br/><br/>
-
-  <img src="https://komarev.com/ghpvc/?username=Azan-Aly&label=PROFILE%20VIEWS&color=1E1B4B&style=flat-square" alt="Profile Views" />
-
-  <br/><br/>
-  <sub>Cybernetic Neon Palette • Engineered by <b><a href="https://github.com/Azan-Aly" style="color: #38BDF8; text-decoration: none;">Muhammad Azan Ali</a></b></sub>
-
-</div>
+<!-- Footer -->
+<p align="center">
+  <img width="80%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=60&section=footer" alt="Footer Wave" />
+</p>
